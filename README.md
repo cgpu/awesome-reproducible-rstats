@@ -1,2 +1,6 @@
 # awesome-reproducible-rstats
-A collection of awesome #Rstats packages that encourage, foster and benevolently dictate reproducibility.
+A collection of awesome #Rstats packages that encourage, foster and benevolently dictate reproducibility. In the spirit of the [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) repo.
+
+- [ ] drake
+- [ ] orderdly
+- [ ] [jdblischak/workflowr](https://github.com/jdblischak/workflowr)
