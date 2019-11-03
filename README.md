@@ -4,3 +4,4 @@ A collection of awesome #Rstats packages that encourage, foster and benevolently
 - [ ] drake
 - [ ] orderdly
 - [ ] [jdblischak/workflowr](https://github.com/jdblischak/workflowr)
+- [ ] [RmDD: Rmd Driven Development](https://emilyriederer.netlify.com/post/rmarkdown-driven-development/)
